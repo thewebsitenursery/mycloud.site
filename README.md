@@ -1,11 +1,10 @@
-# Generator Html5 Site
-A generator for Html5 Site.
+# my-cloud.site
+infinate and affordable cloud storage for everyone
 
 ## Getting started
-- Make sure you have [yo](https://github.com/yeoman/yo) installed:
-    `npm install -g yo`
-- Install the generator **locally**: `npm install generator-html5-site`
-- Run: `yo html5-site`
+Easy as 1, 2, 3
 
 ## License
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+Copyright @ 2016 my-cloud.site
+
+Please do not fork or copy this application without the express permission of the my-cloud.site
